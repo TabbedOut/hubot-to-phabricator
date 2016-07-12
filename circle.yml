@@ -1,0 +1,6 @@
+machine:
+  node:
+    version: 6
+notify:
+  webhooks:
+    - url: https://phab.tabbedout.com/harbormaster/hook/circleci/
