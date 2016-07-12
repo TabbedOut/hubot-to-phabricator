@@ -12,7 +12,10 @@
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-to-phabricator/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "canduit": "^1.1.2",
+    "lodash": "^4.0.0"
+  },
   "peerDependencies": {
     "hubot": "2.x"
   },
