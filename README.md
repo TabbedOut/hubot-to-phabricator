@@ -1,10 +1,12 @@
-# hubot-to-phabricator
+hubot-to-phabricator
+====================
 
 Hubot Phabricator integration
 
 See [`src/to-phabricator.coffee`](src/to-phabricator.coffee) for full documentation.
 
-## Installation
+Installation
+------------
 
 In hubot project repo, run:
 
@@ -18,13 +20,15 @@ Then add **hubot-to-phabricator** to your `external-scripts.json`:
 ]
 ```
 
-## Sample Interaction
+Sample Interaction
+------------------
 
 ```
 user1>> hubot hello
 hubot>> hello!
 ```
 
-## NPM Module
+NPM Module
+----------
 
 https://www.npmjs.com/package/hubot-to-phabricator
